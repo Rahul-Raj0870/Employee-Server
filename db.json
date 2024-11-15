@@ -1,0 +1,16 @@
+{
+  "employeeDetails": [
+    {
+      "userName": "maxvel",
+      "email": "max@gmail.com",
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "userName": "Varun",
+      "email": "varun@gamil.com",
+      "status": "inactive",
+      "id": "2"
+    }
+  ]
+}
